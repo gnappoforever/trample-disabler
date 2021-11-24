@@ -1,0 +1,5 @@
+name: trample-disabler
+version: "1.0"
+author: Davide Boscariol
+main: org.duckdns.davbosca.MyPlugin
+website: davbosca.duckdns.org
